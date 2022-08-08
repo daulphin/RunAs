@@ -1,5 +1,5 @@
 # RunAs
-a Tool to help run apps with alternate credentials without having to re-enter the credentials over and over again.
+a Tool to help run apps with alternate credentials without having to re-enter the credentials over and over again. It essentially allows you to create a series of shortcuts that you can launch directly, or with alternate credentials.
 
 This was created in Sapien Powershell Studio.
 
